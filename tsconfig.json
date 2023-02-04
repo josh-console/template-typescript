@@ -1,0 +1,13 @@
+{
+    "extends": "@tsconfig/node16/tsconfig.json",
+    "compilerOptions": {
+        "allowSyntheticDefaultImports": true,
+        "baseUrl": ".",
+        "noEmit": true,
+        "noImplicitAny": true,
+        "paths": {
+            "~*": ["./src/*"]
+        }
+    },
+    "exclude": ["node_modules"]
+}
