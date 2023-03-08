@@ -1,7 +1,7 @@
 {
-  "name": "hinterlands",
+  "name": "template-typescript",
   "version": "0.0.1",
-  "description": "Catan clone backend.",
+  "description": "Framework-agnostic Typescript template.",
   "author": "https://github.com/josh-console",
   "main": "index.js",
   "engines": {
